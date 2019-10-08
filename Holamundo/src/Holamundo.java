@@ -5,6 +5,8 @@ public class Holamundo {
 		System.out.println("Hola Mundo");
 		
 		new Coche();
+		
+		new Camion();
 	}
 
 }
